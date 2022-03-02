@@ -57,9 +57,10 @@ Xeroderma pigmentosum
 <img width="1440" alt="Screen Shot 2022-03-01 at 2 55 46 PM" src="https://user-images.githubusercontent.com/100782707/156402061-4fdd92e0-417b-43d8-b3e3-dc9efa358653.png">
 Once a disease has been selected, the desired data can be downloaded and used. 
   
+  
 <b>Future Directions </b>
 
 This software has the potential to be improved 
 
-<b> Codeathon Team Members </b>
+<b> Codeathon Team Members: </b>
 Agaz Wani, Jan Dahrendorff, Xochitl Diaz, and Hyacinth Burrowes
