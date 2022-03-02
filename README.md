@@ -85,7 +85,11 @@ Once a disease has been selected, the desired data can be downloaded and used.
 
 RDGREx consists of a web interface.
 
-<b>PREREQUISITIES</>
+<b>PREREQUISITIES</b>
+
+R
+
+
 <b>Future Directions </b>
 
 This software has the potential to be improved by:
