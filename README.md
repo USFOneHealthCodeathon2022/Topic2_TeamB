@@ -16,7 +16,7 @@ Sciences (NCATS).
 To make the process of identifying available data for rare and neglected diseases 
 easier, we developed , RDGREx: Rare Disease Genome Data Extractor, a user-
 friendly tool for quick and streamlined identification of available genomic data in 
-several common databases. This software, available at ____, can be utilized to 
+several common databases. This software, available at , can be utilized to 
 interrogate the availability of genomic data for a range of rare and neglected 
 diseases in several publicly available databases. The tool can identify a range of 
 different omics data types including Whole genome sequencing, whole exome 
