@@ -7,25 +7,47 @@ It is very hard to find data for various rare and neglected diseases because the
 
 <b> Rare and Neglected Diseases </b>
 The current version of the RDGREx contains data on the following diseases:
+
 Acute lymphoblastic leukemia
+
 Acute promyelocytic leukemia
+
 Adrenocortical carcinoma
+
 Beta thalassemia
+
 Ehlers-Danlos syndrome
+
 Friedreich ataxia
+
 Glioblastoma
+
 Hodgkin lymphoma
+
 Huntington's disease
+
 Klienefelter Syndrome
+
 Leigh Syndrome
+
 Mantle cell pymphoma
+
 Multiple myeloma
+
 Pituitary Cancer
+
 Prader-Willi syndrome
+
 Retinoblastoma
+
 Sjogren's syndrome
+
 Small cell lung cancer
+
 Spinal muscular atrophy
+
 Turner Syndrome
+
 Williams syndrome
+
 Xeroderma pigmentosum
