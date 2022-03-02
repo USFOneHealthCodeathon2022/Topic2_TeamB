@@ -23,7 +23,7 @@ different omics data types including Whole genome sequencing, whole exome
 sequencing, RNA-sequencing, ChIP-sequencing data and many more, streamline the
 downloading process and also provide options for visualization. 
 The input for the RDGREx search is a disease of interest. Additionally, the number of
-studies to be included in the query can be specified. After submission of the query, 
+studies to be included in the query can be specified. Ancestry information can be specificed in your search to limit your query to samples from yoru ethnic group of interest. After submission of the query, 
 the user will be able to explore the meta-data associated with the search including 
 a quick summary of the experiment associated with the data. Additional tabs 
 include the location of the data from where it originated, the sequencing platforms 
