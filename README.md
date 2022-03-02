@@ -60,7 +60,10 @@ Once a disease has been selected, the desired data can be downloaded and used.
   
 <b>Future Directions </b>
 
-This software has the potential to be improved 
+This software has the potential to be improved by:
+-expanding upon the diseases in the database
+-allowing the user to filter search results based on data method (RNAseq, microarray, etc.)
+
 
 <b> Codeathon Team Members: </b>
 Agaz Wani, Jan Dahrendorff, Xochitl Diaz, and Hyacinth Burrowes
